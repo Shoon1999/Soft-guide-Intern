@@ -1,0 +1,51 @@
+.container{
+    margin:180px;
+    background-color:#d8cece;
+}
+.concon{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 30px 30px 30px;
+    background-color:rgb(165, 161, 156) ;
+}
+.container1{
+    margin:10px;
+    padding: 10px;
+    background-color: rgb(245, 241, 241);
+    border-radius: 10%;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: none;
+}
+h2,h4{
+    text-align: center;
+}
+.star{
+    text-align: center;
+}
+button{
+    text-align: center;
+    width: 100%;
+    height: 9%;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+.buyshoe{
+    background-color: rgba(3, 3, 214, 0.822);
+}
+.buyear{
+    background-color: rgba(3, 94, 110, 0.822);
+}
+.buywatch{
+    background-color:rgb(13, 130, 160);
+}
+.buyphone{
+    background-color:silver;
+}
+.gold{
+    color: gold;
+}
